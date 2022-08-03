@@ -1,0 +1,191 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  font-family: 'Microsoft YaHei', Verdana, Geneva, sans-serif;
+  font-size: 16px;
+}
+
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+fieldset,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+  padding: 0;
+  margin: 0;
+  -webkit-text-size-adjust: none;
+}
+
+ol,
+li,
+ul {
+  list-style: none;
+}
+
+.page-header {
+  position: relative;
+  padding: 50px 0 50px;
+  text-align: center;
+  background: #e3e6eb;
+  box-sizing: border-box;
+}
+
+.breadcrumb {
+  display: inline-block;
+  line-height: 20px;
+  font-size: 15px;
+}
+
+.depthActive:after {
+  display: inline-block;
+  margin-left: 8px;
+  margin-right: 8px;
+  content: '/';
+}
+
+.page-header__title {
+  color: #565656;
+  font-size: 50px;
+  font-weight: 500;
+  letter-spacing: -.04em;
+  display: block;
+  margin-block-start: 0.3em;
+  margin-block-end: 0.3em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.location {
+  display: inline-block;
+  margin-top: 10px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.location i {
+  margin-top: 10px;
+}
+
+.sub-st {
+  max-width: 1400px;
+  padding: 80px 10px 150px;
+  margin: auto;
+}
+
+.sub-st:after {
+  display: block;
+  clear: both;
+  content: '';
+}
+
+.handle {
+  display: block;
+  letter-spacing: 0.05em;
+}
+
+.sub-st .handle table {
+  width: 100%;
+  border: 1px solid #999;
+  border-top: none;
+  table-layout: fixed;
+}
+
+table {
+  border: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
+  box-sizing: border-box;
+  text-indent: initial;
+}
+
+col {
+  display: table-column;
+}
+
+colgroup {
+  display: table-column-group;
+}
+
+caption {
+  display: table-caption;
+  text-align: center;
+}
+
+caption,
+legend {
+  visibility: hidden;
+  position: absolute;
+  width: 0;
+  overflow: hidden;
+}
+
+.sub-st .handle table th {
+  font-size: 15px;
+  color: #333;
+  border-top: 1px solid #999;
+  border-right: 1px solid #999;
+  text-align: center;
+  width: 25%;
+}
+
+.sub-st .handle table td {
+  padding: 15px 30px;
+  font-size: 14px;
+  color: #656565;
+  border-top: 1px solid #999;
+  display: flex;
+}
+
+th {
+  display: table-cell;
+  vertical-align: inherit;
+  font-weight: bold;
+  text-align: center;
+}
+
+.sub-st .handle table td ul {
+  display: flex;
+  flex-wrap: wrap
+}
+
+.sub-st .handle table td li {
+  float: left;
+  width: 285px;
+  padding: 8px 0;
+  list-style-type: square;
+}
+
+.depth {
+  cursor: pointer;
+}
+
+.breadcrumb{
+  transition: all 0.3s ease-in-out;
+}
+.breadcrumb:hover {
+  color: #000;
+  font-weight: 550;
+}

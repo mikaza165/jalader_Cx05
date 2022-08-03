@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="283.46px" height="283.46px" viewBox="0 0 283.46 283.46" enable-background="new 0 0 283.46 283.46" xml:space="preserve">
+<rect x="71" y="144.222" fill="#64C0E4" width="34" height="40.75"/>
+<ellipse fill="#FFFFFF" cx="88.7" cy="163.876" rx="11.217" ry="14.249"/>
+<rect x="33.5" y="144.25" fill="#D2EAF5" width="35.5" height="40.75"/>
+<rect x="71" y="97.5" fill="#64C0E4" width="34" height="41"/>
+<rect x="77.375" y="149.625" fill="#FFFFFF" width="10.875" height="28.5"/>
+<rect x="33.5" y="97.5" fill="#64C0E4" width="35.5" height="41"/>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="25" y1="141.5" x2="269.25" y2="141.5">
+		<stop  offset="0" style="stop-color:#187FC4"/>
+		<stop  offset="1" style="stop-color:#187FC4;stop-opacity:0"/>
+	</linearGradient>
+	<line fill="url(#SVGID_1_)" x1="25" y1="141.5" x2="269.25" y2="141.5"/>
+	<g>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="25" y1="141.5" x2="269.25" y2="141.5">
+			<stop  offset="0" style="stop-color:#187FC4"/>
+			<stop  offset="1" style="stop-color:#187FC4;stop-opacity:0"/>
+		</linearGradient>
+		<path fill="url(#SVGID_2_)" d="M24.934,142.025c46.184,0,92.369,0,138.552,0c35.232,0,70.466,0,105.698,0
+			c0.823,0,1.115-1.05,0.131-1.05c-46.184,0-92.368,0-138.552,0c-35.232,0-70.465,0-105.697,0
+			C24.242,140.975,23.951,142.025,24.934,142.025L24.934,142.025z"/>
+	</g>
+</g>
+<text transform="matrix(1.155 0 0 1 109.75 132.6973)" fill="#64C0E4" font-family="'MicrosoftYaHeiUI'" font-size="21.5671">Jalader</text>
+<text transform="matrix(0.9161 0 0 1 108.623 159.1797)" fill="#64C0E4" font-family="'MicrosoftYaHeiUI'" font-size="17.0768">LeadingDominance</text>
+<polygon fill="#FFFFFF" points="60.883,169.506 46.965,157.994 63.459,152.222 "/>
+<rect x="38.316" y="166.691" transform="matrix(0.6328 -0.7743 0.7743 0.6328 -114.0916 99.9498)" fill="#FFFFFF" width="20.035" height="7.145"/>
+<polygon fill="#D2EAF5" points="58.641,164.597 51.251,158.366 59.993,155.494 "/>
+<rect x="39.393" y="166.823" transform="matrix(0.6385 -0.7696 0.7696 0.6385 -111.4871 98.7558)" fill="#D2EAF5" width="19.99" height="2.477"/>
+<path fill="#FFFFFF" d="M97.094,123.137v10.52l-5.75,0.022c0,0-12.229-0.083-12.25-10.542s-0.016-18.465-0.016-18.465h13.859v17.266
+	v0.156c0,0,0.031,1.016,1.563,1.016S97.094,123.137,97.094,123.137z"/>
+<path fill="#64C0E4" d="M94.766,124.234h-1.047c0,0-1.609,0.031-2.484-0.656s-0.609-4.063-0.609-4.063l-0.038-13.703h-9.878v17.082
+	c0,0-0.396,8.869,11.563,8.827s2.495,0,2.495,0V124.234z"/>
+<path fill="#FFFFFF" d="M41.508,123.137v10.52l5.75,0.021c0,0,12.229-0.082,12.25-10.541c0.021-10.458,0.016-18.465,0.016-18.465
+	H45.664v17.266v0.156c0,0-0.031,1.016-1.563,1.016S41.508,123.137,41.508,123.137z"/>
+<path fill="#64C0E4" d="M43.148,124.235h1.047c0,0,1.609,0.031,2.484-0.656s0.609-4.063,0.609-4.063l0.038-13.703h9.878v17.082
+	c0,0,0.396,8.869-11.563,8.826c-11.958-0.041-2.495,0-2.495,0V124.235z"/>
+<rect x="79.719" y="152.047" fill="#64C0E4" width="8.531" height="23.656"/>
+<ellipse fill="#64C0E4" cx="88.726" cy="163.873" rx="8.726" ry="11.777"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" d="M84.719,158.359h2.406c0,0,5.359-0.4,5.188,5.409
+	s-4.266,5.419-6.125,5.513l0.016,7.281h-1.484V158.359z"/>
+<path fill="#64C0E4" d="M86.117,160.365v7c0,0,4.281,0.469,4.266-3.5S87.164,160.428,86.117,160.365z"/>
+</svg>
