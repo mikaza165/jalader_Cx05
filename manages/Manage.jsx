@@ -9,7 +9,7 @@ const Manage = () => {
         <section className="page-header-ctrl">
           <div className="header-content">
             <div className="page-header">
-              <h2 className="page-header__title">经 营 范 围</h2>
+              <h2 className="page-header__title">经 营 目 录</h2>
               <div className="location">
                 <ul>
                   <Link href="/">
@@ -33,7 +33,7 @@ const Manage = () => {
                     <th scope="row"><span>管道</span></th>
                     <td>
                       <ul>
-                        <li>PP / FRPP</li>
+                        <Link prefetch href={`/product/pipe-rpp`}><li>PP / FRPP</li></Link>
                         <li>FRPP管</li>
                         <li>PPH</li>
                         <li>PE / HDPE</li>

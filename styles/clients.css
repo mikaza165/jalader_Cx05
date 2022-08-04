@@ -4,7 +4,7 @@
 
 .clients-container {
   flex-direction: row;
-  margin: 60px auto 0;
+  margin: 60px auto 60px;
   align-items: center;
   position: relative;
   /* max-width: 938px; */
@@ -76,7 +76,7 @@
 @media only screen and (min-width: 992px) {
   .clients-container {
     flex-direction: row;
-    margin: 60px auto 0;
+    margin: 60px auto 80px;
     max-width: 998px;
   }
 
@@ -97,6 +97,10 @@
 }
 
 @media only screen and (max-width: 990px) {
+  .products-clients {
+    margin-top: 66px;
+    margin-bottom: 66px;
+  }
   .clients-container {
     display: inline;
     flex-direction: column;

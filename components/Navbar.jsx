@@ -18,11 +18,9 @@ const Navbar = () => {
         <input type="checkbox" id="toggler"></input>
         <div className="nav-items">
           <ul>
-            <li>简介</li>
-            <li>业务</li>
-            <Link href={"/about"}>
-              <li>关于</li>
-            </Link>
+            <Link href={"/about"}><li>简介</li></Link>
+            <Link href={"/manages"}><li>经营范围</li></Link>
+            <Link href={"/services"}><li>关于</li></Link>
             <Link href={"/contact"}><li>联系我们</li></Link>
           </ul>
         </div>

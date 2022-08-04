@@ -71,67 +71,62 @@ const Download = () => {
                           <span className="download-list-item-title">PP 系列 产品说明 应用 </span>
                           <span className="download-list-item-date">2022-07-30</span>
                           <div className="download-formats">
-                            <Link href={`./assets/down/PP_User_Manual_v19_chs.PDF` } ><a target="_blank">
-                              <div className="download-format">                                
+                            <a href="/assets/down/PP_User_Manual_v19_chs.PDF" download target="_blank" rel="noopener noreferrer" >
+                              <div className="download-format">
                                 <div className="donwload-file-name">PDF</div>
                                 <div className="download-icon">
                                   <img src={`assets/images/download-o-primary-old.svg`} alt="" />
                                 </div>
                               </div>
                             </a>
-                            </Link>
                           </div>
                         </li>
                         <li className="download-list-items">
                           <span className="download-list-item-title">PP FRPP 行业基础 管道管件 </span>
                           <span className="download-list-item-date">2022-06-20</span>
                           <div className="download-formats">
-                            <Link href={`./assets/down/JLD_PP_User_Manual_v22_chs.PDF`}><a target="_blank">
+                            <a href="/assets/down/JLD_PP_User_Manual_v22_chs.PDF" download target="_blank" rel="noopener noreferrer" >
                               <div className="download-format">
                                 <div className="donwload-file-name">PDF</div>
                                 <div className="download-icon"><img src={`assets/images/download-o-primary-old.svg`} alt="" /></div>
                               </div>
                             </a>
-                            </Link>
                           </div>
                         </li>
                         <li className="download-list-items">
                           <span className="download-list-item-title">PPH 管材管件 规格参数说明 </span>
                           <span className="download-list-item-date">2022-06-20</span>
                           <div className="download-formats">
-                            <Link href={`./assets/down/JLD_PPH_User_Manual_v22_chs.PDF`}><a target="_blank">
+                            <a href="/assets/down/JLD_PPH_User_Manual_v22_chs.PDF" download target="_blank" rel="noopener noreferrer" >
                               <div className="download-format">
                                 <div className="donwload-file-name">PDF</div>
                                 <div className="download-icon"><img src={`assets/images/download-o-primary-old.svg`} alt="" /></div>
                               </div>
                             </a>
-                            </Link>
                           </div>
                         </li>
                         <li className="download-list-items">
                           <span className="download-list-item-title">PVDF 管材管件 规格参数 </span>
                           <span className="download-list-item-date">2022-06-20</span>
                           <div className="download-formats">
-                            <Link href={`./assets/down/JLD_PVDF_User_Manual_v22_chs.PDF`}><a target="_blank">
+                            <a href="/assets/down/JLD_PVDF_User_Manual_v22_chs.PDF" download target="_blank" rel="noopener noreferrer" >
                               <div className="download-format">
                                 <div className="donwload-file-name">PDF</div>
                                 <div className="download-icon"><img src={`assets/images/download-o-primary-old.svg`} alt="" /></div>
                               </div>
                             </a>
-                            </Link>
                           </div>
                         </li>
                         <li className="download-list-items">
                           <span className="download-list-item-title">PVC U 管材管件 规格参数 </span>
                           <span className="download-list-item-date">2022-06-20</span>
                           <div className="download-formats">
-                            <Link href={`./assets/down/JLD_PVCU_User_Manual_v19_chs.PDF`}><a target="_blank">
+                            <a href="/assets/down/JLD_PVCU_User_Manual_v19_chs.PDF" download target="_blank" rel="noopener noreferrer" >
                               <div className="download-format">
                                 <div className="donwload-file-name">PDF</div>
                                 <div className="download-icon"><img src={`assets/images/download-o-primary-old.svg`} alt="" /></div>
                               </div>
                             </a>
-                            </Link>
                           </div>
                         </li>
                       </ul>
@@ -179,7 +174,7 @@ const Download = () => {
                           <span className="download-list-item-title">HG 20539 - 92 行业标准 </span>
                           <span className="download-list-item-date">1993-01-18</span>
                           <div className="download-formats">
-                            <Link href={`./assets/down/HG20539-1992.PDF`} ><a target="_blank">
+                            <a href="/assets/down/HG20539-1992.PDF" download target="_blank" rel="noopener noreferrer" >
                               <div className="download-format">
                                 <div className="donwload-file-name">PDF</div>
                                 <div className="download-icon">
@@ -187,33 +182,30 @@ const Download = () => {
                                 </div>
                               </div>
                             </a>
-                            </Link>
                           </div>
                         </li>
                         <li className="download-list-items">
                           <span className="download-list-item-title">GB-13019 1991 聚丙烯管材 外经和壁厚极限偏差 </span>
                           <span className="download-list-item-date">1991-07-03</span>
                           <div className="download-formats">
-                            <Link href={`./assets/down/GB-13019-1991-聚丙烯(PP)管材-外经和壁厚极限偏差.PDF`}><a target="_blank">
+                            <a href="/assets/down/GB-13019-1991-聚丙烯(PP)管材-外经和壁厚极限偏差.PDF" download target="_blank" rel="noopener noreferrer" >
                               <div className="download-format">
                                 <div className="donwload-file-name">PDF</div>
                                 <div className="download-icon"><img src={`assets/images/download-o-primary-old.svg`} alt="" /></div>
                               </div>
                             </a>
-                            </Link>
                           </div>
                         </li>
                         <li className="download-list-items">
                           <span className="download-list-item-title">管径 规格参数指标 （国标、美标、日标） </span>
                           <span className="download-list-item-date">2002-05-20</span>
                           <div className="download-formats">
-                            <Link href={`./assets/down/Jalader_User_OD_Size_Ruler.PDF`}><a target="_blank">
+                            <a href="/assets/down/Jalader_User_OD_Size_Ruler.PDF" download target="_blank" rel="noopener noreferrer" >
                               <div className="download-format">
                                 <div className="donwload-file-name">PDF</div>
                                 <div className="download-icon"><img src={`assets/images/download-o-primary-old.svg`} alt="" /></div>
                               </div>
                             </a>
-                            </Link>
                           </div>
                         </li>
                       </ul>
@@ -261,7 +253,7 @@ const Download = () => {
                           <span className="download-list-item-title">塑胶 产品 焊接说明 （总纲）</span>
                           <span className="download-list-item-date">2021-08-10</span>
                           <div className="download-formats">
-                            <Link href={`./assets/down/PP_User_weding.PDF`} ><a target="_blank">
+                            <a href="/assets/down/PP_User_weding.PDF" download target="_blank" rel="noopener noreferrer" >
                               <div className="download-format">
                                 <div className="donwload-file-name">PDF</div>
                                 <div className="download-icon">
@@ -269,72 +261,66 @@ const Download = () => {
                                 </div>
                               </div>
                             </a>
-                            </Link>
                           </div>
                         </li>
                         <li className="download-list-items">
                           <span className="download-list-item-title">管道系统 （施工连接） 对焊连接法 </span>
                           <span className="download-list-item-date">2020-08-16</span>
                           <div className="download-formats">
-                            <Link href={`./assets/down/PP_User_weding_Part1.PDF`}><a target="_blank">
+                            <a href="/assets/down/PP_User_weding_Part1.PDF" download target="_blank" rel="noopener noreferrer" >
                               <div className="download-format">
                                 <div className="donwload-file-name">PDF</div>
                                 <div className="download-icon"><img src={`assets/images/download-o-primary-old.svg`} alt="" /></div>
                               </div>
                             </a>
-                            </Link>
                           </div>
                         </li>
                         <li className="download-list-items">
                           <span className="download-list-item-title">管道系统 （施工连接） 热熔承插连接法 </span>
                           <span className="download-list-item-date">2021-07-20</span>
                           <div className="download-formats">
-                            <Link href={`./assets/down/PP_User_weding_Part2s.PDF`}><a target="_blank">
+                            <a href="/assets/down/PP_User_weding_Part2.PDF" download target="_blank" rel="noopener noreferrer" >
                               <div className="download-format">
                                 <div className="donwload-file-name">PDF</div>
                                 <div className="download-icon"><img src={`assets/images/download-o-primary-old.svg`} alt="" /></div>
                               </div>
                             </a>
-                            </Link>
                           </div>
                         </li>
                         <li className="download-list-items">
                           <span className="download-list-item-title">管道系统 （施工连接） 热风焊接操作手册</span>
                           <span className="download-list-item-date">2021-08-03</span>
                           <div className="download-formats">
-                            <Link href={`./assets/down/PP_User_weding_Part3.PDF`}><a target="_blank">
+                            <a href="/assets/down/PP_User_weding_Part3.PDF" download target="_blank" rel="noopener noreferrer" >
                               <div className="download-format">
                                 <div className="donwload-file-name">PDF</div>
                                 <div className="download-icon"><img src={`assets/images/download-o-primary-old.svg`} alt="" /></div>
                               </div>
                             </a>
-                            </Link>
                           </div>
                         </li>
                         <li className="download-list-items">
                           <span className="download-list-item-title">管径规格 尺寸参照表</span>
                           <span className="download-list-item-date">2002-05-20</span>
                           <div className="download-formats">
-                            <Link href={`./assets/down/Jalader_User_OD_Size_Ruler.PDF`}><a target="_blank">
+                            <a href="/assets/down/Jalader_User_OD_Size_Ruler.PDF" download target="_blank" rel="noopener noreferrer" >
                               <div className="download-format">
                                 <div className="donwload-file-name">PDF</div>
                                 <div className="download-icon"><img src={`assets/images/download-o-primary-old.svg`} alt="" /></div>
                               </div>
                             </a>
-                            </Link>
                           </div>
                         </li>
                         <li className="download-list-items">
                           <span className="download-list-item-title">NORRES 曝气管技术方案</span>
                           <span className="download-list-item-date">2002-05-20</span>
                           <div className="download-formats">
-                            <Link href={`./assets/down/NORRES.PDF`}><a target="_blank">
+                            <a href="/assets/down/NORRES.PDF" download target="_blank" rel="noopener noreferrer" >
                               <div className="download-format">
                                 <div className="donwload-file-name">PDF</div>
                                 <div className="download-icon"><img src={`assets/images/download-o-primary-old.svg`} alt="" /></div>
                               </div>
                             </a>
-                            </Link>
                           </div>
                         </li>
                       </ul>
@@ -382,7 +368,7 @@ const Download = () => {
                           <span className="download-list-item-title">产品说明书 Jalader_v19_chs  </span>
                           <span className="download-list-item-date">2022-07-30</span>
                           <div className="download-formats">
-                            <Link href={`./assets/down/PP_User_Manual_v19_chs.PDF`} ><a target="_blank">
+                            <a href="assets/down/PP_User_Manual_v19_chs.PDF" download target="_blank" rel="noopener noreferrer" >
                               <div className="download-format">
                                 <div className="donwload-file-name">PDF</div>
                                 <div className="download-icon">
@@ -390,20 +376,18 @@ const Download = () => {
                                 </div>
                               </div>
                             </a>
-                            </Link>
                           </div>
                         </li>
                         <li className="download-list-items">
                           <span className="download-list-item-title">宣传册 电子PDF版 </span>
                           <span className="download-list-item-date">2022-06-20</span>
                           <div className="download-formats">
-                            <Link href={`./assets/down/jld-Instruction-manual-v22-chs.PDF`}><a target="_blank">
+                            <a href="assets/down/jld-Instruction-manual-v22-chs.PDF" download target="_blank" rel="noopener noreferrer" >
                               <div className="download-format">
                                 <div className="donwload-file-name">PDF</div>
                                 <div className="download-icon"><img src={`assets/images/download-o-primary-old.svg`} alt="" /></div>
                               </div>
                             </a>
-                            </Link>
                           </div>
                         </li>
                       </ul>

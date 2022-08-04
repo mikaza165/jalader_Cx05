@@ -9,7 +9,7 @@ const Team = () => {
           <p className="text-center text-2xl">客户从实际改进中体会到性价比、设备产品投产实际运营中按需订制。</p>
           <p className="text-center text-2xl">帮助企业真正获取产品自身实际拥有的性能和实际价值。</p>
         </section>
-        <div className="text-center">
+        <div className="cross-arrow text-center">
           <img className="m-auto" src="assets/images/arrow-4.svg" alt="" />
         </div>
         <section className="subtitle rotate-2">
@@ -19,10 +19,12 @@ const Team = () => {
         <div className="arrow-2">
           <img src="assets/images/arrow-4.svg" alt="" />
         </div>
-        <section className="subscribe mr-16 text-center">
-          <p className="text-center text-2xl">职业化·售后团队24小时服务</p>
-          <p className="text-center text-2xl">随时、随地、随机的响应方案</p>
-          <p className="text-center text-2xl">满足客户需求，服务与时代同行</p>
+        <section className="subscribe mr-16 ">
+          <div>
+            <p className="text-center text-2xl">职业化·售后团队24小时服务</p>
+            <p className="text-center text-2xl">随时、随地、随机的响应方案</p>
+            <p className="text-center text-2xl">满足客户需求，服务与时代同行</p>
+          </div>
         </section>
       </div>
     </>

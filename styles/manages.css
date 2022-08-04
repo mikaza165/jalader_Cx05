@@ -176,15 +176,17 @@ th {
   width: 285px;
   padding: 8px 0;
   list-style-type: square;
+  cursor: pointer;
 }
 
 .depth {
   cursor: pointer;
 }
 
-.breadcrumb{
+.breadcrumb {
   transition: all 0.3s ease-in-out;
 }
+
 .breadcrumb:hover {
   color: #000;
   font-weight: 550;

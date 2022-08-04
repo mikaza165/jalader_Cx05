@@ -8,3 +8,5 @@ export { default as Partnerships } from './Partnerships';
 export { default as Structure } from './Structure';
 export { default as Team } from './Team';
 export { default as Bable } from './Bable';
+export { default as Customerservice } from './Customerservice';
+export { default as About } from './About';

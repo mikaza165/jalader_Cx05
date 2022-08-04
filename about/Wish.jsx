@@ -3,7 +3,7 @@ import React from 'react'
 const Wish = () => {
   return (
     <div>
-      <div className="wish">
+      <div className="wish m-mission">
         <div className="mission" id="about-con-2">
           <div className="l-mess">
             <p className="label">愿景及使命</p>
